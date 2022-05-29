@@ -1,0 +1,5 @@
+package MyProject.UltimateCalculator;
+
+public enum NumberType {
+    ROMAN, ARABIC
+}
